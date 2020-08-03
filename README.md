@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 Ask me about my latest project 
 
 [![MirSzabo's github stats](https://github-readme-stats.vercel.app/api?username=MirSzabo)](https://github.com/MirSzabo/github-readme-stats)
 
