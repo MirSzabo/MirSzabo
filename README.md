@@ -1,6 +1,6 @@
 ### 💬 Ask me about my latest project 
 
-[![MirSzabo's github stats](https://github-readme-stats.vercel.app/api?username=MirSzabo&show_icons=true)](https://github.com/MirSzabo/github-readme-stats)
+[![MirSzabo's github stats](https://github-readme-stats.vercel.app/api/pin/?username=MirSzabo&show_icons=true)](https://github.com/MirSzabo/github-readme-stats)
 
 <!--
 **MirSzabo/MirSzabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
