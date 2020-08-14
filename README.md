@@ -1,4 +1,7 @@
-Hey, welcome on my GitHub! Check out my [portfolio](https://portfolio-mirszabo.herokuapp.com/) or connect with me on [LinkedIn](www.linkedin.com/in/miroslava-szabo-b21a6771).
+### Hello :wave:
+
+I'm **[Miroslava Szabo](https://www.linkedin.com/in/miroslava-szabo-b21a6771)**, a life **learner** who is passionate about technology, coding and good music. I graduated on [HackYourFuture Copenhagen](https://www.hackyourfuture.dk/) in April 2020 and I really like to create **green dots** on [GitHub](https://github.com/MirSzabo?tab=repositories).
+Currently I am working as a **[Web Developer Intern in Asosio](https://www.linkedin.com/company/asosio-com/)**. I work with React and Node.js. **Check out my [portfolio](https://portfolio-mirszabo.herokuapp.com/)**.
 
 [![MirSzabo's github stats](https://github-readme-stats.vercel.app/api?username=MirSzabo&show_icons=true)](https://github.com/MirSzabo/github-readme-stats)
 
