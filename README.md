@@ -1,4 +1,4 @@
-Hey welcome on my profile!
+Hey, welcome on my GitHub! Check out my [portfolio](https://portfolio-mirszabo.herokuapp.com/) or connect with me on [LinkedIn](www.linkedin.com/in/miroslava-szabo-b21a6771).
 
 [![MirSzabo's github stats](https://github-readme-stats.vercel.app/api?username=MirSzabo&show_icons=true)](https://github.com/MirSzabo/github-readme-stats)
 
