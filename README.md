@@ -1,6 +1,5 @@
 ### Hello :wave:
 
-**Glad to see you here!** :star_struck: <br>
 I'm **[Miroslava Szabo](https://www.linkedin.com/in/miroslava-szabo-b21a6771)**, a life **learner** who is passionate about technology, coding and good music. I graduated on **[HackYourFuture Copenhagen](https://www.hackyourfuture.dk/)** in April 2020. I really like to create **green dots** on **[GitHub](https://github.com/MirSzabo?tab=repositories)** which represent my journey :running_man: - From **being curious** :thinking: about how does web pages works to becoming **curious web developer** :heart:.
 Currently I am working as a **[Web Developer Intern in Asosio](https://www.linkedin.com/company/asosio-com/)**. I work with React and Node.js. **Check out my [portfolio](https://portfolio-mirszabo.herokuapp.com/)** :star:.
 
